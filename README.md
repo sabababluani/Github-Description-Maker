@@ -1,7 +1,7 @@
-# Movie Agent 🎬
+# Movie Agent
 A Node.js-based agent that helps users search for movies, manage watchlists, and retrieve movie information using the OMDb API. Built with Mastra framework and Claude AI capabilities.
 
-## ✨ Features
+## Features
 - Search movies by title using OMDb API
 - Get detailed movie information (title, year, director, IMDb score)
 - Add movies to personal watchlist
@@ -9,7 +9,7 @@ A Node.js-based agent that helps users search for movies, manage watchlists, and
 - Retrieve full watchlist
 - Prevent duplicate entries in watchlist
 
-## 🖥️ Example Output
+## Example Output
 
 ```json
 {
@@ -23,7 +23,7 @@ A Node.js-based agent that helps users search for movies, manage watchlists, and
 }
 ```
 
-## 🚀 How to Run
+## How to Run
 ### 1. Clone the Repository
 
 ```bash
@@ -55,7 +55,7 @@ OMDB_API_KEY=your_api_key_here
 npm run dev
 ```
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Node.js (>=20.9.0)
 - Mastra Framework
 - Claude AI (Anthropic)
@@ -64,7 +64,7 @@ npm run dev
 - LibSQL
 - Zod
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 src/
@@ -80,18 +80,18 @@ src/
 │   └── index.ts
 ```
 
-## 📈 Recent Changes
+## Recent Changes
 - feat: Added movie search functionality
 - feat: Implemented watchlist management
 - feat: Added OMDb API integration
 - feat: Added Claude AI agent capabilities
 
-## 🤝 Contributing
+## Contributing
 1. Fork the repository
 2. Create a feature branch
 3. Commit your changes
 4. Push to the branch
 5. Submit a pull request
 
-## 📝 License
+## License
 ISC License

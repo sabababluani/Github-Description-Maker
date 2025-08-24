@@ -24,6 +24,7 @@ A Node.js-based agent that helps users search for movies, manage watchlists, and
 ```
 
 ## How to Run
+
 ### 1. Clone the Repository
 
 ```bash

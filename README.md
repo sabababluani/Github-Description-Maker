@@ -49,6 +49,8 @@ Create a `.env` file and add your OMDb API key:
 OMDB_API_KEY=your_api_key_here
 ```
 
+
+
 ### 5. Run the Application
 
 ```bash
